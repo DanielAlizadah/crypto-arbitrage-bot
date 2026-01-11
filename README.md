@@ -29,4 +29,5 @@ The bot follows strict logic to identify market arbitrage:
 * Implement a real-time visualization dashboard using Matplotlib/Pandas.
 
 ## Image Graph Of Statistics
-<img width="657" height="380" alt="image" src="https://github.com/user-attachments/assets/1de1811c-3e27-4475-9386-e59695cf5009" />
+<img width="1106" height="708" alt="image" src="https://github.com/user-attachments/assets/d834bc0c-6485-4ad6-b93d-22d53a712206" />
+
